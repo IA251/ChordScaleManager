@@ -4,7 +4,7 @@ ChordScaleManager is a web application designed to facilitate chord scale manage
 
 # Features
 
-- Ladder Adjustment: Users can dynamically adjust the ladder, moving up and down to view and play different chord scales in real-time.
+- Scale Adjustment: Users can dynamically adjust the scale, moving up and down to view and play different chord scales in real-time.
 - Ease of Use: The application provides an option to switch between default scale, simplifying chord scales for a more user-friendly experience.
 - Integration with Spotify API: Administrators can use Spotify's API to upload song data, directly to the application.
 - Admin Panel: Authorized users have access to an admin panel, allowing them to manage the song collection by adding, editing, and deleting songs.
@@ -27,7 +27,7 @@ Client Side (React):
 
 Database (SQL Server):
 
-- SQL Server used to store user data, song details, and ladder adjustments.
+- SQL Server used to store user data, song details.
 
 External Libraries:
 
